@@ -1,3 +1,46 @@
+<!-- BADGES DE CONTATO -->
+<div align="center">
+  <a href="mailto:evesilva.contato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/maeve-silva/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
+  </a>
+  <a href="https://meu-portifolio-eveesilvaa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Portfólio" />
+  </a>
+</div>
+
+<h1 align="center">🌟 Olá! Eu sou a Evellyn Silva</h1>
+
+<!-- TYPING EFFECT -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=BC47F7&background=FF56FF00&center=true&vCenter=true&width=540&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Supabase+%E2%80%A2+Python+%E2%80%A2+Google+Cloud+%26+IA" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- SOBRE MIM -->
+<table>
+  <tr>
+    <td width="390px" valign="middle">
+      <img src="https://github.com/user-attachments/assets/603f3800-d137-4883-802b-a85431398ebb" alt="Ilustração Evellyn Silva" width="390px"/>
+    </td>
+    <td valign="middle">
+      <h3>👩‍💻 Sobre Mim</h3>
+      <p>
+        🎓 Graduanda em <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>.<br><br>
+        💻 <strong>Desenvolvedora Full-Stack</strong> focada em criar interfaces modernas, responsivas e sistemas escaláveis de ponta a ponta.<br><br>
+        ⚡ Experiência prática no desenvolvimento de <strong>portais corporativos de alta performance, PWAs, plataformas de gestão educacional, sistemas financeiros e de agendamento</strong>.<br><br>
+        ☁️ Atuação com <strong>React, Next.js, TypeScript, Supabase, Python</strong>, automações inteligentes com <strong>IA</strong> e deploy em nuvem com <strong>Google Cloud (GCP), CI/CD (GitHub Actions) e Vercel</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Evellyn-Silvaz/Evellyn-Silvaz/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Evellyn-Silvaz/Evellyn-Silvaz/pacman-output/galaga-contribution-graph.svg?game=galaga">
